@@ -26,7 +26,7 @@ export default function RootLayout({
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
           <AuthProvider>
             <CartProvider>
-              <div className="flex min-h-screen flex-col px-10">
+              <div className="flex min-h-screen flex-col sm:px-1 md:px-10">
                 <Header />
                 <main className="flex-1">{children}</main>
                 <Footer />
