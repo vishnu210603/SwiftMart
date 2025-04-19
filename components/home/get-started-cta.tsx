@@ -53,7 +53,7 @@ export function GetStartedCTA() {
           
           <div className="relative h-[400px] md:h-auto">
             <Image 
-              src="https://images.pexels.com/photos/6169/woman-hand-smartphone-desk.jpg" 
+              src="https://images.unsplash.com/photo-1706509511838-4b101f379ef3?q=80&w=1943&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
               alt="Mobile app"
               fill 
               className="object-cover"
