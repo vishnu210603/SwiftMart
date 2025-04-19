@@ -9,7 +9,7 @@ import { GetStartedCTA } from '@/components/home/get-started-cta'
 
 export default function Home() {
   return (
-    <div className="flex flex-col gap-10 pb-20">
+    <div className="flex flex-col gap-10 px-10 pb-20">
       {/* Hero Section */}
       <section className="w-full min-h-[70vh] bg-gradient-to-b from-muted/50 to-background relative flex items-center">
         <div className="container flex flex-col lg:flex-row gap-10 items-center">
